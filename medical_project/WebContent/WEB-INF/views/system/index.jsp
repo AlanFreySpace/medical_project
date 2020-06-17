@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover">
 <meta name="format-detection" content="telephone=no">
-<title>清华大学</title><META Name="keywords" Content="清华大学" />
+<title>个人画像</title><META Name="keywords" Content="清华大学" />
 
 <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link href="../resources/admin/style/slick.css" rel="stylesheet">
@@ -27,27 +27,27 @@
 </head>
 <body>
 
-<div><a href="https://www.tsinghua.edu.cn/kyzt/" target="_blank"><img src="../resources/admin/js/zwky.jpg" style="width: 100%;"></a></div>
+<div><a href="https://mp.weixin.qq.com/s?src=11&timestamp=1592334503&ver=2404&signature=*fkye5DwaAETMLBN2Sd*6e5SpbeTdinqLDTjKR4KUSH9SZCRNKhquPM7tlg0h4YEuveHUg2jffW7sE*LG9x2it-vae-JGmKSen6cXNoFiZMmGTE0xzdLGVtWuSZ1xYF0&new=1" target="_blank"><img src="../resources/admin/images/13-5.jpg" style="width: 100%;"></a></div>
 <div class="header" id="header">
   <div class="topline"></div>
   <div class="masklayer"></div>
   <div class="smenu" id="smenu"><i class="icon-menu"></i></div>
   <div class="navwrapper">
     <div class="logowrapper">     <script language="javascript" src="../resources/admin/system/resource/js/dynclicks.js"></script>                        <a href="index.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36192)" target="_blank">
-                            <img src="../resources/admin/images/logo_1.svg">
+                            <img src="../resources/admin/images/logo.png" style="width:100%">
                         </a>  
  </div>
     <div class="nav">
       <div class="mainnav clearfix">
         <ul id="nav">
       
-    <li><a href="https://news.tsinghua.edu.cn/" title="清华新闻" class="">清华新闻</a>
+    <li><a href="https://news.tsinghua.edu.cn/" title="医疗新闻" class="">医疗新闻</a>
     </li>
-    <li><a href="xxgk.htm" title="学校概况" class="">学校概况</a>
+    <li><a href="xxgk.htm" title="医疗概况" class="">医疗概况</a>
 
         <ul>
-            <li><a href="xxgk/xzzc.htm" title="校长致辞">校长致辞</a></li>
-            <li><a href="xxgk/xxyg.htm" title="学校沿革">学校沿革</a></li>
+            <li><a href="xxgk/xzzc.htm" title="院长致辞">院长致辞</a></li>
+            <li><a href="xxgk/xxyg.htm" title="医院沿革">医院沿革</a></li>
             <li><a href="xxgk/lrld1.htm" title="历任领导">历任领导</a></li>
             <li><a href="xxgk/xrld1.htm" title="现任领导">现任领导</a></li>
             <li><a href="xxgk/zzjg.htm" title="组织机构">组织机构</a></li>
@@ -55,17 +55,17 @@
               
         </ul>
     </li>
-    <li><a href="yxsz.htm" title="院系设置" class="">院系设置</a>
+    <li><a href="yxsz.htm" title="科系设置" class="">科系设置</a>
     </li>
-    <li><a href="szdw1.htm" title="师资队伍" class="">师资队伍</a>
+    <li><a href="szdw1.htm" title="医疗队伍" class="">医疗队伍</a>
 
     </li>
     <li><a href="jyjx1.htm" title="教育教学" class="">教育教学</a>
 
         <ul>
-            <li><a href="jyjx1/bksjy.htm" title="本科生教育">本科生教育</a></li>
-            <li><a href="jyjx1/yjsjy.htm" title="研究生教育">研究生教育</a></li>
-            <li><a href="jyjx1/gjxspy/fzgk.htm" title="国际学生培养">国际学生培养</a></li>
+            <li><a href="jyjx1/bksjy.htm" title="医生教育">医生教育</a></li>
+            <li><a href="jyjx1/yjsjy.htm" title="护士教育">护士教育</a></li>
+            <li><a href="jyjx1/gjxspy/fzgk.htm" title="国际医生培养">国际医生培养</a></li>
             <li><a href="jyjx1/jxjy1.htm" title="继续教育">继续教育</a></li>
               
         </ul>
@@ -81,23 +81,23 @@
               
         </ul>
     </li>
-    <li><a href="zsjy.htm" title="招生就业" class="">招生就业</a>
+    <li><a href="zsjy.htm" title="招聘就业" class="">招聘就业</a>
 
         <ul>
-            <li><a href="zsjy/bkszs.htm" title="本科生招生">本科生招生</a></li>
-            <li><a href="zsjy/yjszs1.htm" title="研究生招生">研究生招生</a></li>
-            <li><a href="zsjy/gjxszs1.htm" title="国际学生招生">国际学生招生</a></li>
-            <li><a href="zsjy/xszyfz.htm" title="学生职业发展">学生职业发展</a></li>
+            <li><a href="zsjy/bkszs.htm" title="医生招聘">医生招聘</a></li>
+            <li><a href="zsjy/yjszs1.htm" title="护士招聘">护士招聘</a></li>
+            <li><a href="zsjy/gjxszs1.htm" title="国际医生招聘">国际医生招聘</a></li>
+            <li><a href="zsjy/xszyfz.htm" title="医生职业发展">医生职业发展</a></li>
               
         </ul>
     </li>
   
   
-    <li><a href="zjqh.htm" title="走进清华" class="">走进清华</a>
+    <li><a href="zjqh.htm" title="加入我们" class="">加入我们</a>
 
         <ul class="last">
-            <li><a href="zjqh/xysh.htm" title="校园生活">校园生活</a></li>
-            <li><a href="zjqh/xyfg.htm" title="校园风光">校园风光</a></li>
+            <li><a href="zjqh/xysh.htm" title="医院生活">医院生活</a></li>
+            <li><a href="zjqh/xyfg.htm" title="医院风光">医院风光</a></li>
             <li><a href="zjqh/syxx1.htm" title="实用信息">实用信息</a></li>
               
         </ul>
@@ -112,13 +112,13 @@
         <ul>
           <script language="javascript" src="../resources/admin/system/resource/js/openlink.js"></script>
 
-<li><a href="rczp/zpjh.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36210)">人才招聘</a></li>
+<li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36210)">人才招聘</a></li>
 
 
-<li><a href="https://www.lib.tsinghua.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36211)">图书馆</a></li>
+<li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36211)">图书馆</a></li>
 
 
-  <li class="en"><a href="https://www.tsinghua.edu.cn/en/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36212)"><i class="icon-globe"></i>English</a></li>
+  <li class="en"><a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36212)"><i class="icon-globe"></i>English</a></li>
 
           <li class="search" id="search">
       
@@ -161,20 +161,22 @@
 
 
 <script language="javascript" src="../resources/admin/system/resource/js/centerCutImg.js"></script><script language="javascript" src="../resources/admin/system/resource/js/ajax.js"></script> <ul>
-           <li><img src="../resources/admin/_local/A/8165/83E0F8067A6826FE4D4FC9888F2_D2531327_378BC.jpg" style="width:100%"><a href="info/1150/5133.htm" target="_blank" title="清华推出2020年招生宣传片《追光少年》">
-       <h3>清华推出2020年招生宣传片《追光少年》</h3></a></li>
-       <li><img src="../resources/admin/_local/C/7F0B/6E39229562CE1533AC64C95135B_C61E574F_7D43A.jpg" style="width:100%"><a href="info/1150/5127.htm" target="_blank" title="世界海洋日 | 拥抱海洋，清华深圳国际研究生院在行动">
-       <h3>世界海洋日 | 拥抱海洋，清华深圳国际研究生院在行动</h3></a></li>
-       <li><img src="../resources/admin/_local/C/6A2F/3214CD3D89B795C263CBB37DCD7_97051D4F_3A143.jpg" style="width:100%"><a href="info/1150/5122.htm" target="_blank" title="好久不见，六月的清华园！">
-       <h3>好久不见，六月的清华园！</h3></a></li>
-       <li><img src="../resources/admin/_local/C/B317/414CF3FD24D9B01E0EAEA6208E1_068EA064_43E85.jpg" style="width:100%"><a href="https://news.tsinghua.edu.cn/info/1002/79332.htm" target="_blank" title="清华团队研发核酸检测卡盒 30分钟内出结果">
-       <h3>清华团队研发核酸检测卡盒 30分钟内出结果</h3></a></li>
-       <li><img src="../resources/admin/_local/F/18D9/26956EC079FFCF0145957ED3163_C220831D_C3497.jpg" style="width:100%"><a href="info/1150/5120.htm" target="_blank" title="微纳之间，清华科研人的伟大使命">
-       <h3>微纳之间，清华科研人的伟大使命</h3></a></li>
+           <li><img src="../resources/admin/images/36.jpg" style="width:100vw; height:47vw"><a href="#" title="移动5G助力智能医疗">
+       <h3>移动5G助力智能医疗</h3></a></li>
+       <li><img src="../resources/admin/images/3.jpg" style="width:100vw; height:47vw"><a href="#" title="科学 | 治病救人的方针">
+       <h3>科学 | 治病救人的方针</h3></a></li>
+       <li><img src="../resources/admin/images/2.jpg" style="width:100vw; height:47vw"><a href="#" title="实验 | 拯救千万人的努力">
+       <h3>实验 | 拯救千万人的努力</h3></a></li>
+       <li><img src="../resources/admin/images/38.jpg" style="width:100vw; height:47vw"><a href="#" title="服务 | 全方位覆盖">
+       <h3>服务 | 全方位覆盖</h3></a></li>
+       <li><img src="../resources/admin/images/4.jpg" style="width:100vw; height:47vw"><a href="#" title="健康 | 医者的伟大使命">
+       <h3>健康 | 医者的伟大使命</h3></a></li>
     </ul><script>_showDynClickBatch(['dynclicks_u4_5133','dynclicks_u4_5127','dynclicks_u4_5122','dynclicks_u4_5121','dynclicks_u4_5120'],[5133,5127,5122,5121,5120],"wbnews", 1623241808)</script>
 
   </div>
 </div>
+<br>
+<br>
 <script type="text/javascript">
  $('.topimg ul').slick({
    infinite: true,
@@ -201,8 +203,8 @@
      }]
    });
    var mr=document.createElement("a");
- mr.text="更多清华映像 >";
- mr.href="https://www.tsinghua.edu.cn/qhyx/a2020.htm";
+ mr.text="更多医疗主题 >";
+ mr.href="#";
  mr.target="_blank";
  mr.className="moreimg";
  $(".topimg .slick-dots").append(mr);
@@ -217,25 +219,25 @@
 
 
 <ul>
-        <li style=" background-image:url(../resources/admin/images/newbg1.jpg)"><a href="https://news.tsinghua.edu.cn/ztxw/tzgjdsj_zzcczyq.htm" target="_blank" title="【专题】同舟共济度时艰 众志成城战疫情">
-        <img src="../resources/admin/_local/A/3615/8DEFEF23B04C4B15BCC18D47EDF_3230DDF3_199F8.jpg" alt="【专题】同舟共济度时艰 众志成城战疫情">
+        <li style=" background-image:url(../resources/admin/images/newbg1.jpg)"><a href="https://mp.weixin.qq.com/s?src=11&timestamp=1592334060&ver=2404&signature=JEfsib*esKvUCOLalwuEvZCuPqE2dsXw5CU32hj9AgwgtGL1xpzfcM1mNNtdZN2PBJrdxuDIaeVNNlewX8cdJ5DvFbLA0RoOSfGXIzn*h9qkrxR1V6GyICChZCyy6cS7&new=1" target="_blank" title="【专题】同舟共济度时艰 众志成城战疫情">
+        <img src="../resources/admin/images/37.jpeg" alt="【专题】AI进驻医疗保健">
             <div class="txtwrapper">
                 <div class="time"><i class="icon-clock"></i>2020.04.17</div>
-                <p>【专题】同舟共济度时艰 众志成城战疫情</p>
+                <p>【专题】AI进驻医疗保健</p>
             </div>
         </a></li>
-    <li style=" background-image:url(../resources/admin/images/newbg2.jpg)"><a href="https://news.tsinghua.edu.cn/ztxw/qdy_gz_y__zxjxjxs.htm" target="_blank" title="【专题】齐动员 共战“疫” 在线教学进行时">
-        <img src="../resources/admin/_local/3/6329/F04726DD2C45E9DC5E1FDD395BD_6023E755_1B838.jpg" alt="【专题】齐动员 共战“疫” 在线教学进行时">
+    <li style=" background-image:url(../resources/admin/images/newbg2.jpg)"><a href="http://www.fudongli.com/zx/detail_1025.action" target="_blank" title="【专题】齐动员 共战“疫” 在线教学进行时">
+        <img src="../resources/admin/images/35.jpg" alt="【专题】医疗升级，引进新材料">
             <div class="txtwrapper">
                 <div class="time"><i class="icon-clock"></i>2020.04.17</div>
-                <p>【专题】齐动员 共战“疫” 在线教学进行时</p>
+                <p>【专题】医疗升级，引进新材料</p>
             </div>
         </a></li>
-    <li style=" background-image:url(../resources/admin/images/newbg3.jpg)"><a href="https://news.tsinghua.edu.cn/ztxw/kyqjdqhky.htm" target="_blank" title="【专题】抗疫期间的清华科研">
-        <img src="../resources/admin/_local/6/904C/4638E787DCB6B2901C4D32DF23D_DA27A718_139B2.jpg" alt="【专题】抗疫期间的清华科研">
+    <li style=" background-image:url(../resources/admin/images/newbg3.jpg)"><a href="https://zhuanlan.zhihu.com/p/40027848" target="_blank" title="【专题】抗疫期间的清华科研">
+        <img src="../resources/admin/images/23.png" alt="【专题】大数据改变医疗模式">
             <div class="txtwrapper">
                 <div class="time"><i class="icon-clock"></i>2020.04.17</div>
-                <p>【专题】抗疫期间的清华科研</p>
+                <p>【专题】大数据改变医疗模式</p>
             </div>
         </a></li>
 </ul><script>_showDynClickBatch(['dynclicks_u5_3884','dynclicks_u5_3883','dynclicks_u5_3885'],[3884,3883,3885],"wbnews", 1623241808)</script>
@@ -248,42 +250,42 @@
 <div class="events">
     <h2><b></b>新闻<b></b></h2>
     <ul class="clearfix">
-           <li><a href="https://news.tsinghua.edu.cn/ztxw/a2020ndjhfyjc.htm" target="_blank" title="【专题】2020年度讲话发言集萃">
+        <li><a href="http://www.cmdi.org.cn/publish/default/zhixuntop_2/content/2019111116331210427.htm" target="_blank" title="【专题】镁合金植入物治疗骨伤不损组织">
                 <div class="time">
-                    <span>17</span>2020.04
+                    <span>11</span>2019.11
                 </div>
                 <div class="txtwrapper">
-                    <h3>【专题】2020年度讲话发言集萃</h3>
-                    <p>2020年度重要讲话与发言内容合集，体现学校重要工作、主要工作主旨和校领导讲话、发言精神。</p>
+                    <h3>【专题】镁合金植入物治疗骨伤不损组织</h3>
+                    <p>德国科学家正在研制一种由镁制成的小型植入物和螺钉，具有足够的机械稳定性，并在人体内的降解程度可控，不会导致人体组织损伤。</p>
                 </div>
             </a></li>
-        <li><a href="https://news.tsinghua.edu.cn/ztxw/nw2020byj.htm" target="_blank" title="难忘2020毕业季">
+        <li><a href="http://www.cmdi.org.cn/publish/default/zhixuntop_1/content/2020061617351911963.htm" target="_blank" title="金银成为纳米抗癌机器人载体">
                 <div class="time">
-                    <span>06</span>2020.06
+                    <span>18</span>2020.02
                 </div>
                 <div class="txtwrapper">
-                    <h3>难忘2020毕业季</h3>
-                    <p>从深冬到仲夏，从“云端”到校园，2020届毕业生在毕业前经历了特殊的成长。这个毕业季注定特别而难忘——充满喜悦地迎回，再满怀期待地送出，清华欢迎你回家，...</p>
+                    <h3>金银成为纳米抗癌机器人载体</h3>
+                    <p>金银不仅能做出美轮美奂的饰品，还能“变身”纳米机器人，成为抗癌药。李楠团队提出纳米抗癌新策略，通过创新设计，将金银作为纳米抗癌药物载体，同时本身也发挥治疗作用。</p>
                 </div>
             </a></li>
-        <li><a href="https://news.tsinghua.edu.cn/ztxw/a2020clzjy.htm" target="_blank" title="【专题】2020春·留住记忆">
+           <li><a href="http://www.cmdi.org.cn/publish/default/zhixuntop_2/content/2020021812144519661.htm" target="_blank" title="【专题】唾液分析新技术快速诊断寨卡病毒">
                 <div class="time">
-                    <span>17</span>2020.04
+                    <span>16</span>2020.06
                 </div>
                 <div class="txtwrapper">
-                    <h3>【专题】2020春·留住记忆</h3>
-                    <p>2020年的春天注定让人难以忘怀。为留住这段特殊时期的珍贵记忆，学校决定开展“2020春·留住记忆”征集活动，记录生动历史、抒写真挚情怀、讲述感人故事...</p>
+                    <h3>【专题】唾液分析新技术快速诊断寨卡病毒</h3>
+                    <p>丹尼利博士开发的结合了光学和磁性粒子的诊断技术可以同时测试100个潜在病毒患者的样本，有望将病毒诊断时间缩短至大约15分钟。</p>
                 </div>
             </a></li>
     </ul>
 </div>
-<a href="https://news.tsinghua.edu.cn/index.htm" target="_blank" class="newsmore">更多清华新闻</a><script>_showDynClickBatch(['dynclicks_u6_3881','dynclicks_u6_5125','dynclicks_u6_3880'],[3881,5125,3880],"wbnews", 1623241808)</script>
+<a href="http://www.cmdi.org.cn/publish/default/" target="_blank" class="newsmore">更多医疗新闻</a><script>_showDynClickBatch(['dynclicks_u6_3881','dynclicks_u6_5125','dynclicks_u6_3880'],[3881,5125,3880],"wbnews", 1623241808)</script>
 
          <table align="center" style="margin-top:20px;">
             <tr>
                 <td>
                         <a href="https://www.tsinghua.edu.cn/thu109/index.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 56868)" target="_blank">
-                            <img src="../resources/admin/font/1153136.jpg" border="0" style="max-width: 100%;    width: 100%;">
+                            <img src="../resources/admin/images/43-3.jpg" border="0" style="max-width: 100%;    width: 100%;">
                         </a>  
                 </td>
         </tr>
@@ -296,34 +298,34 @@
 
 
 
-<h2><span>校园看点</span><a href="xykd.htm" class="more">更多 ></a></h2>
+<h2><span>医学看点</span><a href="#" class="more">更多 ></a></h2>
 <div class="focus">
     <div class="bigpic">
         <ul>
                 <li>
-                    <a href="info/1129/5129.htm" target="_blank" title="清华大学医工交叉“大家”说系列论坛开篇之讲：医学是理工发展的天堂——跨学科交叉的沃土"><img src="../resources/admin/_local/4/8B91/13BC7C34760AC73ABAE052C21EE_D81DD16A_A8B67.jpg" alt="清华大学医工交叉“大家”说系列论坛开篇之讲：医学是理工发展的天堂——跨学科交叉的沃土">
+                    <a href="https://mp.weixin.qq.com/s/ARXLEMZFNfrhf_CHnF62eQ" target="_blank" title="治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点"><img src="../resources/admin/images/48-2.jpg" alt="治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点">
                         <div class="txtwrapper">
-                            <div class="cata">学术活动</div>
-                            <h3>清华大学医工交叉“大家”说系列论坛开篇之讲：医学是理...</h3>
-                            <p>清华大学医工交叉“大家”说系列论坛邀请医学及工科领域“大家”，从不同学科视角讲述医学工程前沿技术及行业动态，搭建交流共论的平台。</p>
+                            <div class="cata">学术前沿</div>
+                            <h3>治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点</h3>
+                            <p>解决肺部病毒感染的能力取决于干扰素（IFN）和炎性细胞因子的作用，但它们在宿主防御和恢复体内平衡方面的相对作用仍然不确定。与其他IFN不同，IFN-λ信号传导诱导抗病毒活性，同时限制了嗜中性粒细胞的组织破坏功能。</p>
                         </div>
                     </a>
                 </li>
                 <li>
-                    <a href="info/1129/5128.htm" target="_blank" title="清华大学美术学院2020届线上毕业作品展"><img src="../resources/admin/_local/F/DE1C/C9F71CBFBA3E65D18E5B1D01765_4225AAA7_3FD5B.jpg" alt="清华大学美术学院2020届线上毕业作品展">
+                    <a href="https://mp.weixin.qq.com/s/GcH4NXA7E7JKT-GFy8_2fQ" target="_blank" title="每天喝100毫升含糖饮料，增加患癌概率18%，果汁也不例外！英法已对其征收糖税"><img src="../resources/admin/images/49-2.jpg" alt="每天喝100毫升含糖饮料，增加患癌概率18%，果汁也不例外！英法已对其征收糖税">
                         <div class="txtwrapper">
-                            <div class="cata">展览</div>
-                            <h3>清华大学美术学院2020届线上毕业作品展</h3>
-                            <p>清华大学美术学院2020届线上毕业作品展将于2020年6月12日14：00正式上线。</p>
+                            <div class="cata">学术前沿</div>
+                            <h3>每天喝100毫升含糖饮料，增加患癌概率18%，果汁也不例外...</h3>
+                            <p>含糖饮料的摄入与整体癌症和乳腺癌的风险呈正相关。 纯果汁也与整体癌症的风险呈正相关。目前英国、法国等已针对含糖饮料征收糖税，以期减少对含糖饮料的购买。</p>
                         </div>
                     </a>
                 </li>
                 <li>
-                    <a href="info/1129/5119.htm" target="_blank" title="清华大学“春风讲堂”系列讲座第十七讲：亚洲共同体与竞争共存的世界秩序"><img src="../resources/admin/_local/4/CBE2/439D88356620AF578B218385D96_0C965A01_124CD.jpg" alt="清华大学“春风讲堂”系列讲座第十七讲：亚洲共同体与竞争共存的世界秩序">
+                    <a href="https://mp.weixin.qq.com/s/Zta9mynDLoNBiIm9AOE-ww" target="_blank" title="颜宁团队连续发表3篇Cell/Nature，首次解析了NPC1/2复合物结构"><img src="../resources/admin/images/50-2.jpg" alt="颜宁团队连续发表3篇Cell/Nature，首次解析了NPC1/2复合物结构">
                         <div class="txtwrapper">
-                            <div class="cata">学术活动</div>
-                            <h3>清华大学“春风讲堂”系列讲座第十七讲：亚洲共同体与竞...</h3>
-                            <p>“春风讲堂”系列讲座约请校内不同领域的专家学者登上讲台，回顾历史经验中的疫情挑战，共论人类社会应对方略。</p>
+                            <div class="cata">学术前沿</div>
+                            <h3>颜宁团队连续发表3篇Cell/Nature，首次解析了NPC1/2复合物...</h3>
+                            <p>2020年6月15日，颜宁及杨洪远共同通讯在Cell 在线发表研究论文，揭示了低pH依赖性胆固醇从NPC2传递到NPC1跨膜（TM）域的分子基础。</p>
                         </div>
                     </a>
                 </li>
@@ -332,26 +334,26 @@
     <div class="smallpic">
         <ul>
                 <li>
-                    <a href="info/1129/5128.htm" target="_blank" title="清华大学美术学院2020届线上毕业作品展"><img src="../resources/admin/_local/F/DE1C/C9F71CBFBA3E65D18E5B1D01765_4225AAA7_3FD5B.jpg" alt="清华大学美术学院2020届线上毕业作品展">
+                    <a href="https://mp.weixin.qq.com/s/GcH4NXA7E7JKT-GFy8_2fQ" target="_blank" title="每天喝100毫升含糖饮料，增加患癌概率18%，果汁也不例外！英法已对其征收糖税"><img src="../resources/admin/images/49-2.jpg" alt="每天喝100毫升含糖饮料，增加患癌概率18%，果汁也不例外！英法已对其征收糖税">
                         <div class="txtwrapper">
-                            <div class="cata">展览</div>
-                            <h3>清华大学美术学院2020届线上毕业作品展</h3>
+                            <div class="cata">学术前沿</div>
+                            <h3>每天喝100毫升含糖饮料，增加患癌概率18%，果汁也不例外...</h3>
                         </div>
                     </a>
                 </li>
                 <li>
-                    <a href="info/1129/5119.htm" target="_blank" title="清华大学“春风讲堂”系列讲座第十七讲：亚洲共同体与竞争共存的世界秩序"><img src="../resources/admin/_local/4/CBE2/439D88356620AF578B218385D96_0C965A01_124CD.jpg" alt="清华大学“春风讲堂”系列讲座第十七讲：亚洲共同体与竞争共存的世界秩序">
+                    <a href="https://mp.weixin.qq.com/s/Zta9mynDLoNBiIm9AOE-ww" target="_blank" title="颜宁团队连续发表3篇Cell/Nature，首次解析了NPC1/2复合物结构"><img src="../resources/admin/images/50-2.jpg" alt="颜宁团队连续发表3篇Cell/Nature，首次解析了NPC1/2复合物结构">
                         <div class="txtwrapper">
-                            <div class="cata">学术活动</div>
-                            <h3>清华大学“春风讲堂”系列讲座第十七讲：亚洲共同体与竞...</h3>
+                            <div class="cata">学术前沿</div>
+                            <h3>颜宁团队连续发表3篇Cell/Nature，首次解析了NPC1/2复合物...</h3>
                         </div>
                     </a>
                 </li>
                 <li>
-                    <a href="info/1129/5129.htm" target="_blank" title="清华大学医工交叉“大家”说系列论坛开篇之讲：医学是理工发展的天堂——跨学科交叉的沃土"><img src="../resources/admin/_local/4/8B91/13BC7C34760AC73ABAE052C21EE_D81DD16A_A8B67.jpg" alt="清华大学医工交叉“大家”说系列论坛开篇之讲：医学是理工发展的天堂——跨学科交叉的沃土">
+                    <a href="https://mp.weixin.qq.com/s/ARXLEMZFNfrhf_CHnF62eQ" target="_blank" title="治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点"><img src="../resources/admin/images/48-2.jpg" alt="治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点">
                         <div class="txtwrapper">
-                            <div class="cata"> 学术活动</div>
-                            <h3>清华大学医工交叉“大家”说系列论坛开篇之讲：医学是理...</h3>
+                            <div class="cata">学术前沿</div>
+                            <h3>治疗时间很重要！新冠肺炎治疗的新途径：IFN-λ成为治疗热点</h3>
                         </div>
                     </a>
                 </li>
@@ -394,7 +396,7 @@
     </div>
     <div class="tcbg"></div>
     <div class="mainWrap relative">
-    <h2><b></b>数据清华<b></b></h2>
+    <h2><b></b>数据医疗<b></b></h2>
 <div class="datawrapper">
       <div class="dataitem">
    <ul>
@@ -402,8 +404,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/A/3D99/CD73A10EE24D51F91B42C715930_49E5DF8D_E29.png" alt="">
      <div class="txtwrapper">
-      <h4>442.12</h4>
-      <p>校园面积442.12公顷(不含附属医院面积)</p>
+      <h4>983394</h4>
+      <p>全国医疗卫生机构总数</p>
       </div>
      </div>
     </li>
@@ -411,8 +413,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/9/E449/2D800067C234EA93D06AFCAEF06_3DD9635F_1376.png" alt="">
      <div class="txtwrapper">
-      <h4>54.8%</h4>
-      <p>全校绿化覆盖率54.8%，百年树龄的古树240棵</p>
+      <h4>29140</h4>
+      <p>医院总数</p>
       </div>
      </div>
     </li>
@@ -425,8 +427,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/A/8A3A/CDC1C117513774E2854E141310F_126D91F3_D62.png" alt="">
      <div class="txtwrapper">
-      <h4>18113</h4>
-      <p>全校公共教室240间，座位数18113个</p>
+      <h4>926518</h4>
+      <p>基层医疗卫生机构总数</p>
       </div>
      </div>
     </li>
@@ -434,8 +436,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/0/3B39/52441FC0E64C6BE698D867276DA_48AF0DCF_111A.png" alt="">
      <div class="txtwrapper">
-      <h4>5386000</h4>
-      <p>图书馆实体馆藏总量538.6万册（件）</p>
+      <h4>24866</h4>
+      <p>专业公共卫生机构总数</p>
       </div>
      </div>
     </li>
@@ -448,8 +450,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/11C79/9013177E6DF526F134B27EA9A73_08A66603_164A.png" alt="">
      <div class="txtwrapper">
-      <h4>40</h4>
-      <p>中国工程院院士40人</p>
+      <h4>12708</h4>
+      <p>公立医院总数</p>
       </div>
      </div>
     </li>
@@ -457,8 +459,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/B/35DA/E8F96D51C66C5520C546C0019BF_CD0CA66B_1679.png" alt="">
      <div class="txtwrapper">
-      <h4>54</h4>
-      <p>中国科学院院士54人</p>
+      <h4>16432</h4>
+      <p>民营医院总数</p>
       </div>
      </div>
     </li>
@@ -471,8 +473,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/0/A7E7/E978512E71E48C475D30911BA6A_63CDF55E_1050.png" alt="">
      <div class="txtwrapper">
-      <h4>13000</h4>
-      <p>艺术博物馆藏品13000余组件</p>
+      <h4>2232</h4>
+      <p>三级医院总数（甲等1553个）</p>
       </div>
      </div>
     </li>
@@ -480,8 +482,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/4/31DF/5658C81EF3A66F93465452BF16E_3A7C7477_1558.png" alt="">
      <div class="txtwrapper">
-      <h4>20</h4>
-      <p>2019年获得国家科学技术奖20项</p>
+      <h4>7944</h4>
+      <p>二级医院总数</p>
       </div>
      </div>
     </li>
@@ -494,8 +496,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/86FB1/417B5B19F680F6C96F9B2A4D48C_7EFA2029_FA7.png" alt="">
      <div class="txtwrapper">
-      <h4>2493</h4>
-      <p>2019年获得国内专利授权2493项，国外及地区专利授权274项</p>
+      <h4>9282</h4>
+      <p>一级医院总数</p>
       </div>
      </div>
     </li>
@@ -503,8 +505,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/6/1A3E/09C16DF48370CFD008D3F04AC06_A929CF0D_1217.png" alt="">
      <div class="txtwrapper">
-      <h4>605</h4>
-      <p>2019年获批国家自然科学基金各类项目605项</p>
+      <h4>9682</h4>
+      <p>未定级医院总数</p>
       </div>
      </div>
     </li>
@@ -517,8 +519,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/A/3E22/701FFA5C33EEFCF5AA6AEDC2F79_E4DC2BFF_10D1.png" alt="">
      <div class="txtwrapper">
-      <h4>10</h4>
-      <p>2019年获得国家社科类重大项目立项10项</p>
+      <h4>7410000</h4>
+      <p>全国医疗卫生机构床位总数</p>
       </div>
      </div>
     </li>
@@ -526,8 +528,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/E05AE/FCCF2B935570241DF212562FAEC_F534BA2A_1560.png" alt="">
      <div class="txtwrapper">
-      <h4>59</h4>
-      <p>学院 20个；系 59个</p>
+      <h4>5689000</h4>
+      <p>医院床位总数（占76.8%）</p>
       </div>
      </div>
     </li>
@@ -540,8 +542,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/DA151/1C1709C6F769545F4DDAD36D9A7_65E49E2A_178E.png" alt="">
      <div class="txtwrapper">
-      <h4>82</h4>
-      <p>本科专业 82个；第二学位专业 18个</p>
+      <h4>11173000</h4>
+      <p>全国卫生人员总数</p>
       </div>
      </div>
     </li>
@@ -549,8 +551,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/F/7A48/EAE528EE61A3BD08228C7F9F11E_A8808D8E_16EC.png" alt="">
      <div class="txtwrapper">
-      <h4>3565</h4>
-      <p>教师人数3565</p>
+      <h4>8454000</h4>
+      <p>卫生技术人员3565</p>
       </div>
      </div>
     </li>
@@ -563,8 +565,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/A/DC94/854E9D6F718D15DDCA1CD7CCCE4_2A25CE18_1B61.png" alt="">
      <div class="txtwrapper">
-      <h4>50394</h4>
-      <p>在学学生人数50394（本科生16037 硕士生18606 博士生15751）</p>
+      <h4>1000000</h4>
+      <p>乡村医生和卫生员总数</p>
       </div>
      </div>
     </li>
@@ -572,8 +574,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/B/D248/5E6D272BF62CCFDA1832E5A0BB4_148FC6BF_17D2.png" alt="">
      <div class="txtwrapper">
-      <h4>3200</h4>
-      <p>在校国际学生总数（学位生）3200余人</p>
+      <h4>426000</h4>
+      <p>其他技术人员</p>
       </div>
      </div>
     </li>
@@ -586,8 +588,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/3/455D/F11CA232D479F0E1FBC9A67853D_B784C410_1215.png" alt="">
      <div class="txtwrapper">
-      <h4>8771</h4>
-      <p>2019年赴海外交流学习学生8771人次</p>
+      <h4>483000</h4>
+      <p>管理人员</p>
       </div>
      </div>
     </li>
@@ -595,8 +597,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/C/28B6/83C6CFFBB16C15C60A6AD5B527C_46455F01_1475.png" alt="">
      <div class="txtwrapper">
-      <h4>700</h4>
-      <p>全英文授课课程近700门，全英文研究生学位项目29项，联合培养双授联授学位项目55项</p>
+      <h4>809000</h4>
+      <p>工勤技能人员</p>
       </div>
      </div>
     </li>
@@ -609,8 +611,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/A/30A6/A0DDC28FCB6305D109A81D6EAF8_A7254EAC_DAA.png" alt="">
      <div class="txtwrapper">
-      <h4>311</h4>
-      <p>开设311门在线课程</p>
+      <h4>46344.9</h4>
+      <p>全国卫生总费用（亿元）</p>
       </div>
      </div>
     </li>
@@ -618,8 +620,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/B/B9FF/BE55F10A39ECC2612C780C9F259_D26A43F6_2672.png" alt="">
      <div class="txtwrapper">
-      <h4>293</h4>
-      <p>与全球50个国家的293所大学、研究机构及国际组织签署校级合作协议</p>
+      <h4>6.2%</h4>
+      <p>卫生总费用占GDP百分比</p>
       </div>
      </div>
     </li>
@@ -632,8 +634,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/76CC0/24BBE8FA5E533F3D2F93CBF7814_F4535DE6_15D0.png" alt="">
      <div class="txtwrapper">
-      <h4>263</h4>
-      <p>在册学生社团263家</p>
+      <h4>79.3</h4>
+      <p>全国医疗卫生机构总诊疗人次（亿）</p>
       </div>
      </div>
     </li>
@@ -641,8 +643,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/0/83FD/9DDCFE56A87197035969CCABC99_BECACBB1_131F.png" alt="">
      <div class="txtwrapper">
-      <h4>53</h4>
-      <p>学生体育代表队共有53支队伍</p>
+      <h4>85.3%</h4>
+      <p>全国医院病床使用率</p>
       </div>
      </div>
     </li>
@@ -655,8 +657,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/9/00F2/63D075716519409874C0C348B83_9D1D2743_156D.png" alt="">
      <div class="txtwrapper">
-      <h4>12</h4>
-      <p>学生艺术团共12支队伍</p>
+      <h4>245.5</h4>
+      <p>医院次均门诊费用（元）</p>
       </div>
      </div>
     </li>
@@ -664,8 +666,8 @@
      <div class="wrapper">
      <img src="../resources/admin/_local/4/8249/D135DC6A5CC52794BCB5D70EE10_8834D214_1204.png" alt="">
      <div class="txtwrapper">
-      <h4>1092</h4>
-      <p>2019年共有1092支支队参加学生社会实践</p>
+      <h4>49527</h4>
+      <p>中医类医院总数</p>
       </div>
      </div>
     </li>
@@ -718,34 +720,34 @@
         <div class="txtwrapper clearfix">
          <h2>常用链接</h2>    
 <ul>
-     <li><a href="zjqh/syxx1/xyjt1.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36214)">校园公交车</a></li>
- <li><a href="zjqh/xyfg/xydt1.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36215)">校园地图</a></li>
- <li><a href="http://www.tuef.tsinghua.edu.cn" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36216)">教育基金会</a></li>
- <li><a href="zjqh/syxx1/xygg1.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36217)">校园公告</a></li>
- <li><a href="zjqh/syxx1.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36218)">实用信息</a></li>
- <li><a href="http://www.tsinghua.org.cn/publish/alumni/index.html" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36219)">校友总会</a></li>
+     <li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36214)">医院公交车</a></li>
+ <li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36215)">医院地图</a></li>
+ <li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36216)">医疗基金会</a></li>
+ <li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36217)">医院公告</a></li>
+ <li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36218)">实用信息</a></li>
+ <li><a href="#" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36219)">医生论坛</a></li>
 </ul>
         </div>
       </div>
       <ul class="plink">
          
                             <li>
-                <a href="https://www.join-tsinghua.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36188)" target="_blank">
-                    <img src="../resources/admin/images/fimg-1.jpg">
+                <a title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36188)" target="_blank">
+                    <img src="../resources/admin/images/16-2.jpg">
                 </a>  
                 
                 </li>
 
               <li>
-                <a href="https://yz.tsinghua.edu.cn" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36189)" target="_blank">
-                    <img src="../resources/admin/images/fimg-2.jpg">
+                <a title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36189)" target="_blank">
+                    <img src="../resources/admin/images/19-2.jpg">
                 </a>  
                 
                 </li>
 
               <li>
-                <a href="https://www.artmuseum.tsinghua.edu.cn" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36190)" target="_blank">
-                    <img src="../resources/admin/images/fimg-3.jpg">
+                <a title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1623241808, 36190)" target="_blank">
+                    <img src="../resources/admin/images/22-2.jpg">
                 </a>  
                 
                 </li>
@@ -757,21 +759,21 @@
   <div class="copy">
     <div class="mainWrap">
       <div class="en">    
-    <a href="https://www.tsinghua.edu.cn/en/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36213)"><i class="icon-globe"></i> English</a>
+    <a href="#" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1623241808, 36213)"><i class="icon-globe"></i> English</a>
 </div>
-      <div class="contact">                             <img src="../resources/admin/images/logo_1.svg">
+      <div class="contact">                             <img src="../resources/admin/images/logo.png">
 
         <script language="javascript" src="../resources/admin/system/resource/js/news/mp4video.js"></script>
 <div class="txtwrapper"> 
  <em class="icon-phone"></em> 010-62793001　 
- <span><em class="icon-mail"></em> webmaster@tsinghua.edu.cn</span> 
+ <span><em class="icon-mail"></em> webmaster@sdu.edu.cn</span> 
  <br> 
- <em class="icon-location"></em> 北京市海淀区清华大学 
+ <em class="icon-location"></em> 智能医疗 
 </div>
       </div>
     
       <div class="copyrights"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
-<p style="    float: left;">版权所有 © 清华大学 &nbsp;&nbsp;&nbsp;&nbsp;京ICP备<a href="http://beian.miit.gov.cn" target="_blank" style="color:#fff;">15006448</a>号 &nbsp;<span>京公网安备 110402430053 号</span></p>
+<p style="    float: left;">版权所有 © 智能医疗 &nbsp;&nbsp;&nbsp;&nbsp;京ICP备<a href="http://beian.miit.gov.cn" target="_blank" style="color:#fff;">15006448</a>号 &nbsp;<span>京公网安备 110402430053 号</span></p>
       <i class="icon-chart-bar"></i> <span id="total" style="padding: 0px; opacity: 1;">
 
 <script language="javascript" src="../resources/admin/_dwr/engine.js"></script><script language="javascript" src="../resources/admin/_dwr/util.js"></script><script language="javascript" src="../resources/admin/_dwr/interface/PageCounterDWR.js"></script><i id="a246864" name="a246864" style="    font-style: normal;"></i>   
