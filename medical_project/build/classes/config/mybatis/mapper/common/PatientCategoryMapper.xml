@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  <mapper namespace="medical_project.dao.common.PatientCategoryDao">
+  
+  	<insert id="add" parameterType="medical_project.entity.common.PatientCategory">
+  		insert into patient_category(id,parentId,name,tags,remark) values(null,#{parentId},#{name},#{tags},#{remark})
+  	</insert>
+  	
+  	<update id="edit" parameterType="medical_project.entity.common.PatientCategory">
+  		update patient_category set parentId=#{parentId},name=#{name},tags=#{tags},remark=#{remark} where id=#{id}
+  	</update>
+  	
+  	<select id="findList" parameterType="Map" resultType="medical_project.entity.common.PatientCategory">
+  		select * from patient_category 
+  		<if test="name != null">
+  			where name like '%${name}%' 
+  		</if>
+  		<if test="offset != null and pageSize != null">
+  			limit #{offset},#{pageSize}
+  		</if>
+  	</select>
+  	
+  	<select id="getTotal" parameterType="Map" resultType="Integer">
+  		select count(*) from patient_category 
+  		<if test="name != null">
+  			where name like '%${name}%' 
+  		</if>
+  	</select>
+  	 	
+  	<select id="findById" parameterType="Long" resultType="medical_project.entity.common.PatientCategory">
+  		select * from patient_category where id=#{value}
+  	</select>
+  	
+  	<delete id="delete" parameterType="String">
+  		delete from patient_category where id in(${value})
+  	</delete>
+  </mapper>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  <mapper namespace="medical_project.dao.common.PatientDao">
+  
+  	<insert id="add" parameterType="medical_project.entity.common.Patient">
+  		insert into patient(id,patientCategoryId,name,tags,imageUrl,content,createTime) values(null,#{patientCategoryId},#{name},#{tags},#{imageUrl},#{content},#{createTime})
+  	</insert>
+  	
+  	<update id="edit" parameterType="medical_project.entity.common.Patient">
+  		update patient set patientCategoryId=#{patientCategoryId},name=#{name},tags=#{tags},imageUrl=#{imageUrl},content=#{content} where id=#{id}
+  	</update>
+  	
+  	<select id="findList" parameterType="Map" resultType="medical_project.entity.common.Patient">
+  		select * from patient where 1=1 
+  		<if test="name != null">
+  			and name like '%${name}%' 
+  		</if>
+  		<if test="tags != null">
+  			and tags like '%${tags}%' 
+  		</if>
+  		<if test="orderBy != null and sort != null">
+  			order by ${orderBy} ${sort} 
+  		</if>
+  		<if test="offset != null and pageSize != null">
+  			limit #{offset},#{pageSize}
+  		</if>
+  	</select>
+  	
+  	<select id="getTotal" parameterType="Map" resultType="Integer">
+  		select count(*) from patient where 1=1 
+  		<if test="name != null">
+  			and name like '%${name}%' 
+  		</if>
+  		<if test="tags != null">
+  			and tags like '%${tags}%' 
+  		</if>
+  	</select>
+  	
+  	<select id="findById" parameterType="Long" resultType="medical_project.entity.common.Patient">
+  		select * from patient where id=#{value}
+  	</select>
+  	
+  	<delete id="delete" parameterType="String">
+  		delete from patient where id in(${value})
+  	</delete>
+  </mapper>
